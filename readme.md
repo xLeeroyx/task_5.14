@@ -25,5 +25,3 @@ license: [CC BY 3.0](https://creativecommons.org/license/by/3.0/)
 
 ---
 
-Git logo by Jason Long - https://git-scm.com/downloads/logos, 
-license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
