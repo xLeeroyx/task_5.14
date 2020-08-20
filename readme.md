@@ -36,7 +36,28 @@ license: [CC BY 3.0](https://creativecommons.org/license/by/3.0/)
 * [git merge](./branchin-and-merger/merge.md);
 * [git mergetool](./branchin-and-merger/mergetool.md);
 * [git stash](./branchin-and-merger/stash.md);
-* [git tag](./branchin-and-merger/tag.md);
+* [git tag](./branchin-and-merger/tag.md).
+
+3. Совместная работа и обновление проектов:
+
+* [git fetch](./updates-and-joint-work/fetch.md);
+* [git archive](./updates-and-joint-work/archive.md);
+* [git pull](./updates-and-joint-work/pull.md);
+* [git push](./updates-and-joint-work/push.md);
+* [git remote](./updates-and-joint-work/remote.md);
+* [git submodule](./updates-and-joint-work/submodule.md).
+
+4. Осмотр и сравнение:
+
+* [git describe](./inspection-and-comparison/describe.md);
+* [git shortlog](./inspection-and-comparison/shortlog.md);
+* [git show](./inspection-and-comparison/show.md).
+
+5. Отладка:
+
+* [git bisect](./debug/bisect.md);
+* [git blame](./debug/blame.md);
+* [git grep](./debug/grep.md).
 
 ---
 

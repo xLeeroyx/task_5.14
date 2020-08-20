@@ -1,4 +1,4 @@
-[< к содержанию](./readme.md)
+[< к содержанию](../readme.md)
 
 Copyright 2020 shabanin
 
